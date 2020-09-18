@@ -1,5 +1,7 @@
 # PhotoPicker
 
+![Preview](preview.gif)
+
 The project implements a simple image picker. An image can be selected either from Camera/Photo library or Instagram. The ImagePicker can be extended by adding additional image sources that conform to `ImageSourceProtocol`:
 ```swift
 protocol ImageSourceProtocol {
